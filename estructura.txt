@@ -1,0 +1,8 @@
+traductor/
+├─ dist/                       # Carpeta que PyInstaller genera con el EXE final
+│   └─ traductor.exe
+├─ build/                      # Carpeta temporal de PyInstaller (se puede borrar)
+├─ icono.ico                   # Icono de tu app
+├─ traductor.py                # script principal
+├─ requirements.txt            # Librerías necesarias
+└─ README.md                   # Documentación de tu proyecto
