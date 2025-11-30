@@ -1,7 +1,5 @@
 # 🌐 Traductor Multilenguaje JMP
 
-![Icono](icono.ico)
-
 **Traductor de texto multilenguaje en tiempo real**, desarrollado con Python y Tkinter.  
 Permite traducir entre más de 12 idiomas usando Google Translator.
 
@@ -12,7 +10,7 @@ Permite traducir entre más de 12 idiomas usando Google Translator.
 - ✅ Traducción entre múltiples idiomas (español, inglés, francés, alemán, italiano, portugués, ruso, japonés, chino, coreano, árabe, hindi)
 - ✅ Interfaz amigable y moderna con modo Light/Dark
 - ✅ App **portable**: solo ejecuta el EXE en Windows
-- ✅ Icono personalizado en la barra de tareas y ventana
+- ✅ Icono personalizado 
 
 ---
 
@@ -52,5 +50,6 @@ pyinstaller --onefile --windowed --icon=icono.ico traductor.py
 ## El EXE final estará en la carpeta dist/.
 
 --onefile → Un solo archivo ejecutable
+
 
 --windowed → Sin consola, solo GUI
